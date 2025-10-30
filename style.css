@@ -12,3 +12,7 @@
 .char:hover {
 	color: blue;
 }
+
+a {
+	margin-left: 2;
+}
